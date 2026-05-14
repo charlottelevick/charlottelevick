@@ -1,4 +1,4 @@
-## Hello World, I'm Charlotte
+## Hello World, I'm Charlotte.
 
 <h1 align="center">A Veterinary Practice Insurance and Debt Administrator with a passion for Data Analysis and a growing passoin for Data Engineering</h3>
 

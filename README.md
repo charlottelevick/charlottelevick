@@ -1,6 +1,6 @@
 ## Hello World, I'm Charlotte.
 
-<h1 align="center">A Veterinary Practice Insurance and Debt Administrator with a passion for Data Analysis and a growing passoin for Data Engineering</h3>
+<h1 align="center">A Veterinary Practice Insurance and Debt Administrator with a passion for Data Analysis Data Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
